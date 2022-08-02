@@ -1,0 +1,316 @@
+NumExpr defaulting to 8 threads.
+[I 2022-07-26 17:54:11.555 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-26 17:54:11.820 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-26 17:54:11.820 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2022-07-26 17:54:11.868 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-26 17:54:11.868 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-26 17:54:11.872 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-26 17:54:11.875 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-26 17:54:11.876 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2022-07-26 17:54:11.876 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Project1
+[I 2022-07-26 17:54:11.876 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-26 17:54:11.876 ServerApp] http://localhost:8888/lab
+[I 2022-07-26 17:54:11.876 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-07-26 17:54:11.876 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-26 17:54:18.352 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-26 17:54:18.364 ServerApp] 404 GET /api/contents/FinTech-Mod5-Challenge/financial-planner.ipynb?content=0&1658872458355 (::1): No such file or directory: FinTech-Mod5-Challenge/financial-planner.ipynb
+[W 2022-07-26 17:54:18.364 ServerApp] No such file or directory: FinTech-Mod5-Challenge/financial-planner.ipynb
+[W 2022-07-26 17:54:18.364 ServerApp] 404 GET /api/contents/FinTech-Mod5-Challenge/financial-planner.ipynb?content=0&1658872458355 (::1) 2.55ms referer=http://localhost:8888/lab
+[W 2022-07-26 17:54:18.364 ServerApp] 404 GET /api/contents/FinTech-Mod4-Challenge/whale_analysis.ipynb?content=0&1658872458355 (::1): No such file or directory: FinTech-Mod4-Challenge/whale_analysis.ipynb
+[W 2022-07-26 17:54:18.364 ServerApp] No such file or directory: FinTech-Mod4-Challenge/whale_analysis.ipynb
+[W 2022-07-26 17:54:18.365 ServerApp] 404 GET /api/contents/FinTech-Mod4-Challenge/whale_analysis.ipynb?content=0&1658872458355 (::1) 2.39ms referer=http://localhost:8888/lab
+[W 2022-07-26 17:54:18.365 ServerApp] 404 GET /api/contents/FinTech-Mod7-Challenge/challenge.ipynb?content=0&1658872458355 (::1): No such file or directory: FinTech-Mod7-Challenge/challenge.ipynb
+[W 2022-07-26 17:54:18.365 ServerApp] No such file or directory: FinTech-Mod7-Challenge/challenge.ipynb
+[W 2022-07-26 17:54:18.365 ServerApp] 404 GET /api/contents/FinTech-Mod7-Challenge/challenge.ipynb?content=0&1658872458355 (::1) 2.24ms referer=http://localhost:8888/lab
+[W 2022-07-26 17:54:18.365 ServerApp] 404 GET /api/contents/FinTech-Mod7-Challenge/fmodeling.ipynb?content=0&1658872458355 (::1): No such file or directory: FinTech-Mod7-Challenge/fmodeling.ipynb
+[W 2022-07-26 17:54:18.365 ServerApp] No such file or directory: FinTech-Mod7-Challenge/fmodeling.ipynb
+[W 2022-07-26 17:54:18.365 ServerApp] 404 GET /api/contents/FinTech-Mod7-Challenge/fmodeling.ipynb?content=0&1658872458355 (::1) 2.10ms referer=http://localhost:8888/lab
+[W 2022-07-26 17:54:18.365 ServerApp] 404 GET /api/contents/FinTech-Mod7-Challenge/SQL.ipynb?content=0&1658872458354 (::1): No such file or directory: FinTech-Mod7-Challenge/SQL.ipynb
+[W 2022-07-26 17:54:18.365 ServerApp] No such file or directory: FinTech-Mod7-Challenge/SQL.ipynb
+[W 2022-07-26 17:54:18.365 ServerApp] 404 GET /api/contents/FinTech-Mod7-Challenge/SQL.ipynb?content=0&1658872458354 (::1) 2.05ms referer=http://localhost:8888/lab
+[W 2022-07-26 17:54:18.365 ServerApp] 404 GET /api/contents/FinTech-Mod7-Challenge/Mapping_Adventures.ipynb?content=0&1658872458354 (::1): No such file or directory: FinTech-Mod7-Challenge/Mapping_Adventures.ipynb
+[W 2022-07-26 17:54:18.366 ServerApp] No such file or directory: FinTech-Mod7-Challenge/Mapping_Adventures.ipynb
+[W 2022-07-26 17:54:18.366 ServerApp] 404 GET /api/contents/FinTech-Mod7-Challenge/Mapping_Adventures.ipynb?content=0&1658872458354 (::1) 2.17ms referer=http://localhost:8888/lab
+[W 2022-07-26 17:54:18.367 ServerApp] 404 GET /api/contents/FinTech-Mod7-Challenge/visual_data_analysis.ipynb?content=0&1658872458355 (::1): No such file or directory: FinTech-Mod7-Challenge/visual_data_analysis.ipynb
+[W 2022-07-26 17:54:18.367 ServerApp] No such file or directory: FinTech-Mod7-Challenge/visual_data_analysis.ipynb
+[W 2022-07-26 17:54:18.367 ServerApp] 404 GET /api/contents/FinTech-Mod7-Challenge/visual_data_analysis.ipynb?content=0&1658872458355 (::1) 1.23ms referer=http://localhost:8888/lab
+[W 2022-07-26 17:54:18.367 ServerApp] 404 GET /api/contents/FinTech-Mod6-Challenge/san_francisco_housing.ipynb?content=0&1658872458356 (::1): No such file or directory: FinTech-Mod6-Challenge/san_francisco_housing.ipynb
+[W 2022-07-26 17:54:18.368 ServerApp] No such file or directory: FinTech-Mod6-Challenge/san_francisco_housing.ipynb
+[W 2022-07-26 17:54:18.368 ServerApp] 404 GET /api/contents/FinTech-Mod6-Challenge/san_francisco_housing.ipynb?content=0&1658872458356 (::1) 1.13ms referer=http://localhost:8888/lab
+[W 2022-07-26 17:54:19.066 ServerApp] 404 GET /api/contents/FinTech-Mod6-Challenge?1658872459063 (::1): No such file or directory: FinTech-Mod6-Challenge
+[W 2022-07-26 17:54:19.067 ServerApp] No such file or directory: FinTech-Mod6-Challenge
+[W 2022-07-26 17:54:19.068 ServerApp] 404 GET /api/contents/FinTech-Mod6-Challenge?1658872459063 (::1) 2.91ms referer=http://localhost:8888/lab
+[I 2022-07-26 17:55:00.047 ServerApp] Creating new notebook in 
+[I 2022-07-26 17:55:00.435 ServerApp] Kernel started: 31bc91ad-2c57-44fa-bc4d-04e411947397
+[I 2022-07-26 17:56:06.488 ServerApp] Saving file at /Untitled.ipynb
+[W 2022-07-27 17:39:19.305 ServerApp] Forbidden
+[W 2022-07-27 17:39:19.323 ServerApp] 403 GET /api/kernels?1658957959010 (::1) 64.50ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:19.344 ServerApp] Forbidden
+[W 2022-07-27 17:39:19.344 ServerApp] 403 GET /api/contents?content=1&1658957959071 (::1) 56.11ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:19.345 ServerApp] Forbidden
+[W 2022-07-27 17:39:19.346 ServerApp] 403 GET /api/sessions?1658957959100 (::1) 55.33ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:19.346 ServerApp] Forbidden
+[W 2022-07-27 17:39:19.346 ServerApp] 403 GET /api/terminals?1658957959109 (::1) 54.60ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:29.357 ServerApp] Forbidden
+[W 2022-07-27 17:39:29.358 ServerApp] 403 GET /api/contents?content=1&1658957969349 (::1) 2.87ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:30.398 ServerApp] Forbidden
+[W 2022-07-27 17:39:30.399 ServerApp] 403 GET /api/terminals?1658957970387 (::1) 3.66ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:31.153 ServerApp] Forbidden
+[W 2022-07-27 17:39:31.155 ServerApp] 403 GET /api/sessions?1658957971147 (::1) 3.48ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:31.156 ServerApp] Forbidden
+[W 2022-07-27 17:39:31.156 ServerApp] 403 GET /api/terminals?1658957971148 (::1) 0.94ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:31.167 ServerApp] Forbidden
+[W 2022-07-27 17:39:31.168 ServerApp] 403 DELETE /api/sessions/a118b26d-9b4a-47c0-b6c5-8668b45a87ec?1658957971158 (::1) 7.86ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:31.171 ServerApp] Forbidden
+[W 2022-07-27 17:39:31.171 ServerApp] 403 GET /api/terminals?1658957971164 (::1) 1.19ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:31.359 ServerApp] 403 POST /api/shutdown?1658957971168 (::1) 187.49ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:37.498 ServerApp] Forbidden
+[W 2022-07-27 17:39:37.499 ServerApp] 403 GET /api/sessions?1658957977490 (::1) 2.61ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:37.586 ServerApp] Forbidden
+[W 2022-07-27 17:39:37.587 ServerApp] 403 GET /api/terminals?1658957977579 (::1) 2.72ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:39.046 ServerApp] Forbidden
+[W 2022-07-27 17:39:39.047 ServerApp] 403 GET /api/kernels?1658957979037 (::1) 2.40ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:39.372 ServerApp] Forbidden
+[W 2022-07-27 17:39:39.373 ServerApp] 403 GET /api/contents?content=1&1658957979364 (::1) 2.68ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:43.977 ServerApp] Forbidden
+[W 2022-07-27 17:39:43.978 ServerApp] 403 GET /api/kernelspecs?1658957983969 (::1) 3.11ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:49.389 ServerApp] Forbidden
+[W 2022-07-27 17:39:49.393 ServerApp] 403 GET /api/contents?content=1&1658957989376 (::1) 7.89ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:52.172 ServerApp] Forbidden
+[W 2022-07-27 17:39:52.176 ServerApp] 403 GET /api/terminals?1658957992154 (::1) 8.58ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:53.397 ServerApp] Forbidden
+[W 2022-07-27 17:39:53.398 ServerApp] 403 GET /api/sessions?1658957993389 (::1) 2.79ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:39:59.430 ServerApp] Forbidden
+[W 2022-07-27 17:39:59.431 ServerApp] 403 GET /api/contents?content=1&1658957999420 (::1) 2.22ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:40:09.439 ServerApp] Forbidden
+[W 2022-07-27 17:40:09.441 ServerApp] 403 GET /api/contents?content=1&1658958009433 (::1) 3.72ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:40:09.631 ServerApp] Forbidden
+[W 2022-07-27 17:40:09.632 ServerApp] 403 GET /api/terminals?1658958009606 (::1) 2.86ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 17:40:19.451 ServerApp] Forbidden
+[W 2022-07-27 17:40:19.453 ServerApp] 403 GET /api/contents?content=1&1658958019443 (::1) 3.91ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:02.320 ServerApp] Forbidden
+[W 2022-07-27 19:09:02.328 ServerApp] 403 GET /api/kernelspecs?1658963342249 (::1) 34.43ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:02.330 ServerApp] Forbidden
+[W 2022-07-27 19:09:02.331 ServerApp] 403 GET /api/terminals?1658963342251 (::1) 17.10ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:02.331 ServerApp] Forbidden
+[W 2022-07-27 19:09:02.331 ServerApp] 403 GET /api/sessions?1658963342254 (::1) 16.61ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:02.337 ServerApp] Forbidden
+[W 2022-07-27 19:09:02.337 ServerApp] 403 GET /api/contents?content=1&1658963342257 (::1) 21.18ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:02.337 ServerApp] Forbidden
+[W 2022-07-27 19:09:02.337 ServerApp] 403 GET /api/kernels?1658963342258 (::1) 20.53ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:12.347 ServerApp] Forbidden
+[W 2022-07-27 19:09:12.349 ServerApp] 403 GET /api/contents?content=1&1658963352339 (::1) 5.11ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:12.915 ServerApp] Forbidden
+[W 2022-07-27 19:09:12.917 ServerApp] 403 GET /api/terminals?1658963352910 (::1) 2.39ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:16.308 ServerApp] Forbidden
+[W 2022-07-27 19:09:16.309 ServerApp] 403 GET /api/sessions?1658963356303 (::1) 2.82ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:22.361 ServerApp] Forbidden
+[W 2022-07-27 19:09:22.362 ServerApp] 403 GET /api/contents?content=1&1658963362356 (::1) 2.33ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:27.169 ServerApp] Forbidden
+[W 2022-07-27 19:09:27.170 ServerApp] 403 GET /api/kernels?1658963367164 (::1) 2.18ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:32.369 ServerApp] Forbidden
+[W 2022-07-27 19:09:32.370 ServerApp] 403 GET /api/contents?content=1&1658963372364 (::1) 2.68ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:32.584 ServerApp] Forbidden
+[W 2022-07-27 19:09:32.584 ServerApp] 403 GET /api/terminals?1658963372580 (::1) 1.34ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:42.377 ServerApp] Forbidden
+[W 2022-07-27 19:09:42.380 ServerApp] 403 GET /api/contents?content=1&1658963382373 (::1) 3.99ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:43.681 ServerApp] Forbidden
+[W 2022-07-27 19:09:43.682 ServerApp] 403 GET /api/kernels?1658963383676 (::1) 2.00ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:44.997 ServerApp] Forbidden
+[W 2022-07-27 19:09:44.998 ServerApp] 403 GET /api/sessions?1658963384993 (::1) 1.89ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:09:52.395 ServerApp] Forbidden
+[W 2022-07-27 19:09:52.397 ServerApp] 403 GET /api/contents?content=1&1658963392383 (::1) 7.05ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[W 2022-07-27 19:21:37.698 ServerApp] Forbidden
+[W 2022-07-27 19:21:37.703 ServerApp] 403 GET /api/kernelspecs?1658964097678 (::1) 13.14ms referer=http://localhost:8888/lab/tree/InterestRates.ipynb
+[I 2022-07-27 19:21:38.211 LabApp] 302 GET /lab/tree/InterestRates.ipynb (::1) 9.36ms
+[I 2022-07-27 19:21:38.309 ServerApp] Starting buffering for 31bc91ad-2c57-44fa-bc4d-04e411947397:905ea0f5-3dd5-4636-9a49-d5c90c50c078
+[I 2022-07-27 19:21:40.318 ServerApp] 302 POST /login?next=%2Flab%2Ftree%2FInterestRates.ipynb (::1) 36.33ms
+[W 2022-07-27 19:21:43.055 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-27 19:21:43.155 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-07-27 19:21:58.642 ServerApp] Kernel shutdown: 31bc91ad-2c57-44fa-bc4d-04e411947397
+[I 2022-07-27 19:21:59.163 ServerApp] Shutting down on /api/shutdown request.
+[I 2022-07-27 19:21:59.166 ServerApp] Shutting down 0 kernels
+/panel-preview/ /panel-preview
+nohup: jupyter-lab: No such file or directory
+NumExpr defaulting to 8 threads.
+[I 2022-07-30 10:12:34.979 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-30 10:12:35.229 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-30 10:12:35.229 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2022-07-30 10:12:35.275 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-30 10:12:35.276 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-30 10:12:35.278 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-30 10:12:35.281 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-30 10:12:35.282 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2022-07-30 10:12:35.282 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Project1
+[I 2022-07-30 10:12:35.282 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-30 10:12:35.282 ServerApp] http://localhost:8888/lab
+[I 2022-07-30 10:12:35.283 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-07-30 10:12:35.283 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-30 10:12:39.812 ServerApp] 404 GET /api/contents/FinTech-Project1/InterestRates.ipynb?content=0&1659190359807 (::1): No such file or directory: FinTech-Project1/InterestRates.ipynb
+[W 2022-07-30 10:12:39.813 ServerApp] No such file or directory: FinTech-Project1/InterestRates.ipynb
+[W 2022-07-30 10:12:39.813 ServerApp] 404 GET /api/contents/FinTech-Project1/InterestRates.ipynb?content=0&1659190359807 (::1) 1.56ms referer=http://localhost:8888/lab
+[I 2022-07-30 10:12:40.106 LabApp] Build is up to date
+[W 2022-07-30 10:12:40.420 ServerApp] 404 GET /api/contents/FinTech-Project1?1659190360415 (::1): No such file or directory: FinTech-Project1
+[W 2022-07-30 10:12:40.421 ServerApp] No such file or directory: FinTech-Project1
+[W 2022-07-30 10:12:40.421 ServerApp] 404 GET /api/contents/FinTech-Project1?1659190360415 (::1) 1.99ms referer=http://localhost:8888/lab
+[W 2022-07-30 10:12:42.891 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-07-30 10:12:43.369 ServerApp] Kernel started: ae06e72f-e275-4cf7-ba8b-944cd83743db
+[I 2022-07-30 10:13:59.341 ServerApp] Saving file at /InterestRates.ipynb
+[W 2022-07-30 10:13:59.363 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-07-30 10:15:59.674 ServerApp] Saving file at /InterestRates.ipynb
+[W 2022-07-30 10:15:59.689 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-07-30 10:17:44.121 ServerApp] Saving file at /InterestRates.ipynb
+[W 2022-07-30 10:17:44.134 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-07-30 10:19:14.068 ServerApp] Saving file at /InterestRates.ipynb
+[W 2022-07-30 10:19:14.083 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-07-30 10:19:41.381 ServerApp] Saving file at /InterestRates.ipynb
+[W 2022-07-30 10:19:41.396 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-07-30 10:29:47.154 ServerApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+Websocket closed
+[I 2022-07-30 10:56:38.409 ServerApp] Starting buffering for ae06e72f-e275-4cf7-ba8b-944cd83743db:6fff75aa-bdfe-4819-b5d3-adb4a51e66c9
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 2022-08-01 08:58:46.999 ServerApp] Starting buffering for ae06e72f-e275-4cf7-ba8b-944cd83743db:efe44e4c-f2ff-489f-b651-148d250fc0b4
+Websocket closed
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2022-08-01 09:14:29.323 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-08-01 09:15:09.299 ServerApp] Saving file at /InterestRates.ipynb
+[W 2022-08-01 09:15:09.521 ServerApp] Notebook InterestRates.ipynb is not trusted
+Websocket closed
+[I 2022-08-01 09:52:14.645 ServerApp] Starting buffering for ae06e72f-e275-4cf7-ba8b-944cd83743db:efe44e4c-f2ff-489f-b651-148d250fc0b4
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[W 2022-08-01 09:52:30.949 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-08-01 09:52:31.305 LabApp] Build is up to date
+[I 2022-08-01 09:52:54.004 ServerApp] Kernel shutdown: ae06e72f-e275-4cf7-ba8b-944cd83743db
+[I 2022-08-01 09:52:54.186 ServerApp] EOF on FD 49; stopping reading
+[I 2022-08-01 09:52:54.291 ServerApp] Terminal 1 closed
+Websocket closed
+[I 2022-08-01 09:52:54.419 ServerApp] Shutting down on /api/shutdown request.
+[I 2022-08-01 09:52:54.420 ServerApp] Shutting down 0 kernels
+/panel-preview/ /panel-preview
+nohup: jupyter-lab: No such file or directory
+NumExpr defaulting to 8 threads.
+[I 2022-08-01 18:24:58.305 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-08-01 18:24:58.568 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-08-01 18:24:58.568 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2022-08-01 18:24:58.616 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-08-01 18:24:58.616 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-08-01 18:24:58.618 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-08-01 18:24:58.621 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-08-01 18:24:58.622 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2022-08-01 18:24:58.622 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Project1
+[I 2022-08-01 18:24:58.622 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-08-01 18:24:58.622 ServerApp] http://localhost:8888/lab
+[I 2022-08-01 18:24:58.622 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-08-01 18:24:58.622 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+TermSocket.open: 1
+[I 2022-08-01 18:25:03.230 ServerApp] New terminal with specified name: 1
+TermSocket.open: Opened 1
+[W 2022-08-01 18:25:03.670 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-08-01 18:25:03.753 LabApp] Build is up to date
+[I 2022-08-01 18:25:04.164 ServerApp] Kernel started: 48abfdf0-3495-4874-9872-3651777c8062
+[I 2022-08-01 18:27:04.124 ServerApp] Saving file at /InterestRates.ipynb
+[W 2022-08-01 18:27:04.142 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-08-01 18:33:04.501 ServerApp] Saving file at /InterestRates.ipynb
+[W 2022-08-01 18:33:04.517 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-08-01 18:37:04.868 ServerApp] Saving file at /InterestRates.ipynb
+[W 2022-08-01 18:37:04.883 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-08-01 18:43:05.212 ServerApp] Saving file at /InterestRates.ipynb
+[W 2022-08-01 18:43:05.222 ServerApp] Notebook InterestRates.ipynb is not trusted
+[I 2022-08-01 18:45:05.480 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 18:47:05.749 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 18:49:07.213 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 18:51:07.462 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 18:53:07.679 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 18:55:07.862 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 18:55:11.245 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 18:57:11.471 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 18:58:21.005 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:00:21.255 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:02:21.518 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:04:09.644 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:05:03.940 LabApp] Build is up to date
+[I 2022-08-01 19:06:09.888 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:08:10.112 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:10:10.346 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:12:10.572 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:14:10.834 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:16:11.047 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:18:11.286 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:20:11.647 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:22:11.879 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:24:12.109 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:25:55.868 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:26:07.664 ServerApp] Kernel restarted: 48abfdf0-3495-4874-9872-3651777c8062
+[I 2022-08-01 19:27:56.148 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:29:56.528 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:31:56.907 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:33:57.292 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:34:29.773 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:36:30.139 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:39:28.827 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:41:29.757 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:48:40.089 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:50:41.025 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:54:42.648 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:56:43.056 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 19:58:43.451 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:00:42.752 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:02:43.189 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:04:43.586 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:06:43.978 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:08:44.374 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:10:44.788 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:12:45.192 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:14:45.639 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:16:46.036 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:18:46.629 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:20:47.050 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:22:47.470 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:24:47.869 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:26:48.258 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:28:48.654 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:30:49.061 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:32:49.461 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:34:49.832 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:36:50.376 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:38:50.807 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:40:51.214 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:42:51.619 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:44:52.030 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:46:52.436 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:47:02.413 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:47:32.534 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:49:32.958 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:51:33.463 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:52:26.275 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:53:21.211 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:55:21.650 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:57:22.067 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 20:59:22.482 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:00:42.033 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:02:42.427 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:04:42.822 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:06:43.317 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:08:43.726 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:10:01.633 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:13:47.992 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:14:52.392 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:14:57.703 ServerApp] Kernel restarted: 48abfdf0-3495-4874-9872-3651777c8062
+[I 2022-08-01 21:15:54.760 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:17:07.474 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:19:07.819 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:21:08.184 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:23:08.525 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:24:44.070 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:26:44.422 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:28:44.804 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:29:26.864 ServerApp] Saving file at /InterestRates.ipynb
+[I 2022-08-01 21:31:16.708 ServerApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[I 2022-08-01 21:31:27.320 ServerApp] Saving file at /InterestRates.ipynb
